@@ -10,7 +10,7 @@ Background as a physiotherapist in Singapore. Currently pursuing a Master's in H
 * ✉️  You can contact me at [debbietanzijing@gmail.com](mailto:debbietanzijing@gmail.com)
 * 🧠  I'm learning Machine Learning with Python, NLP
 * 🤝  I'm open to collaborating on Health Data Projects (Informatics, Analytics)
-* ⚡  Climbing is awesome
+* ⚡  Physiotherapist/ climber
 
 ### Skills
 
