@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debbie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
-Physiotherapist, Health Data Analyst
+Health Data Analyst
 ------------------------------------
 
 Background as a physiotherapist in Singapore. Currently pursuing a Master's in Health Data Analytics.
 
-* 🌍  I'm based in Melbourne
-* ✉️  You can contact me at [debbietanzijing@gmail.com](mailto:debbietanzijing@gmail.com)
-* 🧠  I'm learning Machine Learning with Python, NLP
-* 🤝  I'm open to collaborating on Health Data Projects (Informatics, Analytics)
-* ⚡  Physiotherapist/ climber
+* 🌍  Based in Melbourne
+* ✉️  Contact me at [debbietanzijing@gmail.com](mailto:debbietanzijing@gmail.com)
+* 🤝  Open to collaborating on Health Data Projects (Informatics, Analytics)
+
 
 ### Skills
 
