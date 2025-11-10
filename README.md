@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Health Data Analyst
 ------------------------------------
-
-Background as a physiotherapist in Singapore. Currently pursuing a Master's in Health Data Analytics.
+I have a clinical background in Physiotherapy, and have recently completed my Master's in Health Data Analytics in Monash University 
 
 * 🌍  Based in Melbourne
 * ✉️  Contact me at [debbietanzijing@gmail.com](mailto:debbietanzijing@gmail.com)
