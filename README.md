@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Health Data Analyst
 ------------------------------------
-I have a clinical background in Physiotherapy, and have recently completed my Master's in Health Data Analytics in Monash University 
+I have recently completed my postgraduate in Health Data Analytics under Monash University, with a background of over 5 years of clinical experience in Physiotherapy. 
 
 * 🌍  Based in Melbourne
 * ✉️  Contact me at [debbietanzijing@gmail.com](mailto:debbietanzijing@gmail.com)
